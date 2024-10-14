@@ -1,0 +1,1 @@
+export const featuredPollIds = [20,24,28,33]
