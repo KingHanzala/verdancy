@@ -1,16 +1,16 @@
 # Verdancy Application
 
+[Visit Website](https://verdancy.cryptoutils.xyz)
+
+Last build:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f8b34531-3998-43d5-8cc9-1e811f1fa6e9/deploy-status)](https://app.netlify.com/sites/verdancy/deploys)
+
 Open-source onchain voting platform.
 
 - Create a poll and allow correct stakeholders to participate in that poll.
 - Supports 10+ blockchains.
 
 > **Make sure to star the repository**
-
-# Setup pre-requisites
-
-1) Rename .env.local to .env and update the values.
-2) Backend is not open source. You need to create your own backend application to handle requests. Reachout to me at ```hanzala.sabir@gmail`` for any help.
 
 # Environment(.env) setup
 You need the following
@@ -37,5 +37,3 @@ Follow us:
 <a href="https://youtube.com/@cryptoutils?si=XIx-Erm5u-9iz50d">
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Youtube" width="40" height="40">
 </a>
-
-
