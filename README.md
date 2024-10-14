@@ -25,6 +25,17 @@ You need the following
 
 Follow us:
 
-[![Twitter/X](https://w7.pngwing.com/pngs/676/1/png-transparent-x-icon-ex-twitter-tech-companies-social-media-thumbnail.png)](https://x.com/cryptoutils) [![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png)](https://t.me/cryptoutils) [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png)](https://www.instagram.com/cryptoutils) [![Youtube](https://cdn-icons-png.flaticon.com/512/1384/1384060.png)](https://youtube.com/@cryptoutils?si=XIx-Erm5u-9iz50d)
+<a href="https://x.com/cryptoutils">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt="Twitter/X" width="40" height="40">
+</a>
+<a href="https://t.me/cryptoutils">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" width="40" height="40">
+</a>
+<a href="https://www.instagram.com/cryptoutils">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" alt="Instagram" width="40" height="40">
+</a>
+<a href="https://youtube.com/@cryptoutils?si=XIx-Erm5u-9iz50d">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Youtube" width="40" height="40">
+</a>
 
 
