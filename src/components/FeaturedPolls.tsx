@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { Poll, PollOption } from '../interfaces/types';
-import { featuredPollIds } from '../utils/utils';
 import PollCard from './PollCard';
 import getBackendURL from '../config';
 
@@ -20,6 +19,14 @@ const FeaturedPollsList: React.FC = () => {
   useEffect(() => {
     const fetchPolls = async () => {
       try {
+        const countResp = await axios.get(`${backendURL}/api/pollsCount`)
+        console.log(countResp)
+        const count = countResp.data.count
+        const featuredPollIds = [];
+        for (let i = count; i > count - 10; i--) {
+          featuredPollIds.push(i);
+        }
+        console.log(featuredPollIds)
         const pollPromises = featuredPollIds.map(id =>
           axios.get(`${backendURL}/api/polls/${id}`).then(response => JSON.parse(response.data))
         );
